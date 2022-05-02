@@ -1,0 +1,29 @@
+.navbar{
+  margin:0;
+}
+
+.nav-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width:100%;
+  margin:0;
+  padding: 10px;;
+  background-color: white;
+  list-style-type: none;
+}
+
+.logo{
+  height:25px;
+  margin-right: 10px;
+}
+
+.nav-item{
+  padding:15px 10px 15px 10px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: Noto Sans KR,sans-serif;
+  color:#9fa4ab;
+}
