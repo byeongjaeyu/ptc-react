@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ptc-react/static/css/main.6e95ef81.css",
-    "main.js": "/ptc-react/static/js/main.def3b19b.js",
+    "main.css": "/ptc-react/static/css/main.c9ad8a63.css",
+    "main.js": "/ptc-react/static/js/main.14cb3625.js",
     "static/js/787.f4b9e84d.chunk.js": "/ptc-react/static/js/787.f4b9e84d.chunk.js",
     "static/media/logo.svg": "/ptc-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ptc-react/index.html",
-    "main.6e95ef81.css.map": "/ptc-react/static/css/main.6e95ef81.css.map",
-    "main.def3b19b.js.map": "/ptc-react/static/js/main.def3b19b.js.map",
+    "main.c9ad8a63.css.map": "/ptc-react/static/css/main.c9ad8a63.css.map",
+    "main.14cb3625.js.map": "/ptc-react/static/js/main.14cb3625.js.map",
     "787.f4b9e84d.chunk.js.map": "/ptc-react/static/js/787.f4b9e84d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e95ef81.css",
-    "static/js/main.def3b19b.js"
+    "static/css/main.c9ad8a63.css",
+    "static/js/main.14cb3625.js"
   ]
 }
